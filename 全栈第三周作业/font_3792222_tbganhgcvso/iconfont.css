@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3792222 */
+  src: url('iconfont.woff2?t=1669367102620') format('woff2'),
+       url('iconfont.woff?t=1669367102620') format('woff'),
+       url('iconfont.ttf?t=1669367102620') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  /* font-size: 60px; */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: ＃D3D3D3;
+}
+
+.icon-jiantou-qiehuanzuo:before {
+  position: absolute;
+  content: "\e7aa";
+  /* color: ＃D3D3D3; */
+  margin-left: 20px;
+}
+
+.icon-gantanhao:before {
+  position: absolute;
+  content: "\e636";
+  margin-left: 20px;
+}
+
+.icon-yuanquan:before {
+  margin-left: 20px;
+  content: "\e619";
+}
+
+.icon-22jiahao:before {
+  position: absolute;
+  top: 0px;
+  left: -100px;
+  content: "\e615";
+}
+
+.icon-jiahaotianjia:before {
+  content: "\e613";
+}
+.wu iconfont {
+  font-family: "iconfont" !important;
+  font-size: 60px;
+  font-style: normal;
+  /* margin-right: 10px; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: ＃D3D3D3;
+}
+.wu icon-yuanquan:before{
+  font-size: 100px;
+}
+
+
